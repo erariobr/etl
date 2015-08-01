@@ -1,0 +1,22 @@
+#Eclipse
+.project
+.pydevproject
+.settings/
+
+#Netbeans
+nbproject/
+
+#Intellij
+.idea/
+*.iml
+
+#Data files
+*.csv
+*.zip
+
+
+#pyhton
+__pycache__/
+*.py[cod]
+*$py.class
+
